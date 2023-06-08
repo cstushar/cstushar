@@ -1,78 +1,30 @@
-# ATM Interface in Java (Console Based Application)
+[![MasterHead](https://b2662075.smushcdn.com/2662075/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif?lossy=0&strip=1&webp=1)]
+<h1 align="center">Hi 👋, I'm Tushar Gupta</h1>
+<h3 align="center">A passionate Full Stack Java developer</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-This project is a console-based ATM interface developed in Java. It aims to provide users with a secure and easy-to-use banking experience. The application allows users to perform various banking operations such as checking account details, viewing transaction history, making deposits, withdrawals, transfers, and quitting the session.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cstushar&label=Profile%20views&color=0e75b6&style=flat" alt="cstushar" /> </p>
 
-## Table of Contents
+- 🌱 I’m currently learning **Spring & Spring Boot**
 
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Functionalities](#functionalities)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- 💬 Ask me about **Java , JDBC , MySQl , HIbernate , JSP**
 
-## Introduction
+- 📫 How to reach me **cstushar18@gmail.com**
 
-The ATM Interface in Java (Console Based Application) is designed to simulate an automated teller machine (ATM) experience. The project consists of five classes: account holder, account, bank transaction, bank, and the specific ATM of the bank. The system provides user authentication, account management, transaction history, and various banking functionalities.
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1PFtGEd2LBv6BUsrDTvmC9SsVH1BO68KG?usp=drive_link](https://drive.google.com/drive/folders/1PFtGEd2LBv6BUsrDTvmC9SsVH1BO68KG?usp=drive_link)
 
-## Technologies Used
+- ⚡ Fun fact **I love GolGappa**
 
-- Java
-- Eclipse IDE
-- MySQL
-- JDBC
-- Maven
-- Git
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/thetushargupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thetushargupta" height="30" width="40" /></a>
+</p>
 
-## Functionalities
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-1. User Authentication: Users are prompted to enter their user ID and PIN for authentication. Upon successful authentication, they gain access to the ATM functionalities.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cstushar&show_icons=true&locale=en&layout=compact" alt="cstushar" /></p>
 
-2. Show Transaction History: Users can view their transaction history, which provides details of their past transactions such as withdrawals, deposits, and transfers.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cstushar&show_icons=true&locale=en" alt="cstushar" /></p>
 
-3. Withdraw: Users can withdraw cash from their account by specifying the desired amount. The system verifies the availability of funds and updates the account balance accordingly.
-
-4. Deposit: Users can deposit money into their account by entering the amount they wish to deposit. The system records the transaction and updates the account balance accordingly.
-
-5. Transfer: Users can transfer funds from their account to another user's account. They need to provide the recipient's account details and the desired amount to be transferred. The system ensures the validity of the transaction and updates the account balances of both parties involved.
-
-6. Quit: Users have the option to exit the ATM interface, concluding their banking session.
-
-## Installation
-
-1. Ensure that Java Development Kit (JDK) is installed on your system. If not, download and install it from the official Oracle website.
-
-2. Download and install Eclipse IDE or any other Java IDE of your choice.
-
-3. Set up the MySQL database and configure the necessary database settings in the application.
-
-4. Clone this repository to your local machine using Git or download it as a ZIP file and extract it.
-
-5. Open the project in Eclipse or your preferred Java IDE.
-
-6. Build the project and resolve any dependencies using Maven.
-
-7. Configure the necessary database connection details in the application code.
-
-## Usage
-
-1. Run the application from the IDE.
-
-2. Follow the on-screen instructions to navigate through the ATM interface.
-
-3. Enter the user ID and PIN to authenticate and access the available functionalities.
-
-4. Perform desired banking operations such as checking account details, making transactions, and viewing transaction history.
-
-5. Choose the "Quit" option to exit the ATM interface.
-
-## Contributing
-
-Contributions to the project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to customize this README.md file to provide more specific information about your project.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cstushar&" alt="cstushar" /></p>
