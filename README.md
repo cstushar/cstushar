@@ -62,6 +62,6 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cstushar&show_icons=true&locale=en&layout=compact" alt="cstushar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theTushhar&show_icons=true&locale=en&layout=compact" alt="theTushhar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cstushar&show_icons=true&locale=en" alt="cstushar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theTushhar&show_icons=true&locale=en" alt="theTushhar" /></p>
